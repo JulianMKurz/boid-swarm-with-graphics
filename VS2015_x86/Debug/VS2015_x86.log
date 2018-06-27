@@ -1,0 +1,26 @@
+﻿  Source.cpp
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(141): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\julian\documents\gamesprogrammingobjects\gamesprogrammingboidswarrm\vs2015_x86\source.cpp(160): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  VS2015_x86.vcxproj -> C:\Users\Julian\Documents\GamesProgrammingObjects\GamesProgrammingBoidSwarrm\Debug\VS2015_x86.exe
